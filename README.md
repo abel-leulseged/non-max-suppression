@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Non-Max Suppression
 
 Algorithm:\
@@ -7,3 +8,7 @@ Algorithm:\
 
 Test Case:\
 	Added test functions for edge and general cases. The former includes return the empty list when all scores are below a minimum_threhold and general case is to remove overlapping boxes for a given class.
+=======
+# non-max-suppression
+No
+>>>>>>> 5388f8ac1e403f85795dc872a85b203c85ed3228
